@@ -1,0 +1,3 @@
+export const BASE_URL = import.meta.env.VITE_REACT_API_URL
+export const LOGOUT_REQUEST = 'LOGOUT_REQUEST'
+export const REFRESH_TOKEN_SUCCESS = 'REFRESH_TOKEN_SUCCESS'
